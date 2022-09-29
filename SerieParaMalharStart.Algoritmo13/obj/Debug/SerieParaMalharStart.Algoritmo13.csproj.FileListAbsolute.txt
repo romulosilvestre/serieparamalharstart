@@ -1,0 +1,8 @@
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo13\bin\Debug\SerieParaMalharStart.Algoritmo13.exe.config
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo13\bin\Debug\SerieParaMalharStart.Algoritmo13.exe
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo13\bin\Debug\SerieParaMalharStart.Algoritmo13.pdb
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo13\obj\Debug\SerieParaMalharStart.Algoritmo13.csproj.AssemblyReference.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo13\obj\Debug\SerieParaMalharStart.Algoritmo13.csproj.SuggestedBindingRedirects.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo13\obj\Debug\SerieParaMalharStart.Algoritmo13.csproj.CoreCompileInputs.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo13\obj\Debug\SerieParaMalharStart.Algoritmo13.exe
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo13\obj\Debug\SerieParaMalharStart.Algoritmo13.pdb
