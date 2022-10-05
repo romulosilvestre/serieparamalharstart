@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{65E9D09B-9AD2-433B-AF86-FEA580941DAF}</ProjectGuid>
+    <ProjectGuid>{F57D4D14-51D6-4A2B-B631-016CA06305C8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SerieParaMalharStart.Algoritmo28</RootNamespace>
-    <AssemblyName>SerieParaMalharStart.Algoritmo28</AssemblyName>
+    <RootNamespace>SerieParaMalharStart.VoeAirlines</RootNamespace>
+    <AssemblyName>SerieParaMalharStart.VoeAirlines</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Aeronave.cs" />
+    <Compile Include="Entities\Enums\TipoAeronave.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Siglas.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

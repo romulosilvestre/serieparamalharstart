@@ -11,7 +11,9 @@ namespace SerieParaMalharStart.Algoritmo28
         static void Main(string[] args)
         {
 
-            Console.WriteLine("SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL");
+            Siglas sigla = new Siglas();
+            sigla.Descricao = "SENAR";
+            Console.WriteLine(sigla.mostrarSiginificado());
             Console.ReadKey();
             
         }

@@ -103,6 +103,23 @@ namespace SerieParaMalharStart.Algoritmo13
             double cubico = Math.Pow(3, 3);
             Console.WriteLine($"Valor ao cubo:{cubico}");
             Console.ReadKey();
+            Console.WriteLine("10:15");
+            //Compartilhar
+            //Vou ver se código
+            //Vou perguntar sobre o código
+            //Vou potêncializar o seu código
+            //Autorizar a Orientação a Objetos.
+
+
+            /*
+             * 1- Anderson
+             * 2 -
+             * 
+             */
+
+
+            decimal salario = 1.100m;
+            Console.WriteLine(salario.GetType());
         }
     }
 }
