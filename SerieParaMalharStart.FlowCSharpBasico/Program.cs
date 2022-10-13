@@ -19,7 +19,7 @@ namespace SerieParaMalharStart.FlowCSharpBasico
                 "4-Trainning 01 " +
                 "5-VoeArilines " +
                 "6-Sobrecarga - Descrição " +
-                "7-Sobrecarga - qtdePassageiros");
+                "7-Sobrecarga - qtdePassageiros 8-Sobregarga - Data");
             int op = int.Parse(Console.ReadLine());
             switch (op)
             {
@@ -48,6 +48,11 @@ namespace SerieParaMalharStart.FlowCSharpBasico
                     Agenda a2 = new Agenda();
                     Console.WriteLine(a2.RegistrarVoo(25));
                     break;
+                case 8:
+
+                    Console.WriteLine(new Agenda().RegistrarVoo().ToString());
+                    break;
+
 
             }
             Console.ReadKey();

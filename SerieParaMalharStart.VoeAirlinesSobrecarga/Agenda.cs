@@ -39,5 +39,9 @@ namespace SerieParaMalharStart.VoeAirlinesSobrecarga
             _qtdePassageiro = qtdePassageiro;
             return "quantidade registrada com sucesso";
         }//corpo
+        public DateTime RegistrarVoo()
+        {
+            return DateTime.Today;
+        }
     }
 }
