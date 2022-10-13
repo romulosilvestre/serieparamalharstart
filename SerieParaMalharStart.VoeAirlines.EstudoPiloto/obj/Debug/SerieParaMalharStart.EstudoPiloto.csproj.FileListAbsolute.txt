@@ -1,0 +1,8 @@
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\bin\Debug\SerieParaMalharStart.VoeAirlines.EstudoPiloto.exe.config
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\bin\Debug\SerieParaMalharStart.VoeAirlines.EstudoPiloto.exe
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\bin\Debug\SerieParaMalharStart.VoeAirlines.EstudoPiloto.pdb
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\obj\Debug\SerieParaMalharStart.EstudoPiloto.csproj.AssemblyReference.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\obj\Debug\SerieParaMalharStart.EstudoPiloto.csproj.SuggestedBindingRedirects.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\obj\Debug\SerieParaMalharStart.EstudoPiloto.csproj.CoreCompileInputs.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\obj\Debug\SerieParaMalharStart.VoeAirlines.EstudoPiloto.exe
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines.EstudoPiloto\obj\Debug\SerieParaMalharStart.VoeAirlines.EstudoPiloto.pdb

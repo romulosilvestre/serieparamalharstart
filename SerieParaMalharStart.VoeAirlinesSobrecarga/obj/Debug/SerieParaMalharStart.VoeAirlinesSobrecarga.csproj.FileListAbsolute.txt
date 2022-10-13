@@ -1,0 +1,6 @@
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlinesSobrecarga\bin\Debug\SerieParaMalharStart.VoeAirlinesSobrecarga.dll
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlinesSobrecarga\bin\Debug\SerieParaMalharStart.VoeAirlinesSobrecarga.pdb
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlinesSobrecarga\obj\Debug\SerieParaMalharStart.VoeAirlinesSobrecarga.csproj.AssemblyReference.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlinesSobrecarga\obj\Debug\SerieParaMalharStart.VoeAirlinesSobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlinesSobrecarga\obj\Debug\SerieParaMalharStart.VoeAirlinesSobrecarga.dll
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlinesSobrecarga\obj\Debug\SerieParaMalharStart.VoeAirlinesSobrecarga.pdb

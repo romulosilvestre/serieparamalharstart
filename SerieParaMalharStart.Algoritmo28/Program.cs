@@ -12,7 +12,7 @@ namespace SerieParaMalharStart.Algoritmo28
         {
 
             Siglas sigla = new Siglas();
-            sigla.Descricao = "SENAR";
+            sigla.Descricao = "SENAI";
             Console.WriteLine(sigla.mostrarSiginificado());
             Console.ReadKey();
             

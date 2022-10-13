@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SerieParaMalharStart.VoeAirlinesEstudo.WindowsForms/1.0.0": {
+        "dependencies": {
+          "SerieParaMalharStart.VoeAirlinesEstudo": "1.0.0"
+        },
+        "runtime": {
+          "SerieParaMalharStart.VoeAirlinesEstudo.WindowsForms.dll": {}
+        }
+      },
+      "SerieParaMalharStart.VoeAirlinesEstudo/1.0.0": {
+        "runtime": {
+          "SerieParaMalharStart.VoeAirlinesEstudo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SerieParaMalharStart.VoeAirlinesEstudo.WindowsForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SerieParaMalharStart.VoeAirlinesEstudo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

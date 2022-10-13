@@ -1,0 +1,8 @@
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalhar.Aula11\bin\Debug\SerieParaMalhar.Aula11.exe.config
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalhar.Aula11\bin\Debug\SerieParaMalhar.Aula11.exe
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalhar.Aula11\bin\Debug\SerieParaMalhar.Aula11.pdb
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalhar.Aula11\obj\Debug\SerieParaMalhar.Aula11.csproj.AssemblyReference.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalhar.Aula11\obj\Debug\SerieParaMalhar.Aula11.csproj.SuggestedBindingRedirects.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalhar.Aula11\obj\Debug\SerieParaMalhar.Aula11.csproj.CoreCompileInputs.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalhar.Aula11\obj\Debug\SerieParaMalhar.Aula11.exe
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalhar.Aula11\obj\Debug\SerieParaMalhar.Aula11.pdb

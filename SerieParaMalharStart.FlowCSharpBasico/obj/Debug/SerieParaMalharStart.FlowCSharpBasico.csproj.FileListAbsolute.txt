@@ -1,0 +1,15 @@
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\bin\Debug\SerieParaMalharStart.FlowCSharpBasico.exe.config
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\bin\Debug\SerieParaMalharStart.FlowCSharpBasico.exe
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\bin\Debug\SerieParaMalharStart.FlowCSharpBasico.pdb
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\obj\Debug\SerieParaMalharStart.FlowCSharpBasico.csproj.AssemblyReference.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\obj\Debug\SerieParaMalharStart.FlowCSharpBasico.csproj.SuggestedBindingRedirects.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\obj\Debug\SerieParaMalharStart.FlowCSharpBasico.csproj.CoreCompileInputs.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\obj\Debug\SerieParaMalharStart.FlowCSharpBasico.exe
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\obj\Debug\SerieParaMalharStart.FlowCSharpBasico.pdb
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\bin\Debug\SerieParaMalharStart.FlowCSharpBasico.DotNet.dll
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\bin\Debug\SerieParaMalharStart.FlowCSharpBasico.DotNet.pdb
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\obj\Debug\SerieParaMalharStart.FlowCSharpBasico.csproj.CopyComplete
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\bin\Debug\SerieParaMalharStart.VoeAirlinesEstudo.dll
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\bin\Debug\SerieParaMalharStart.VoeAirlinesEstudo.pdb
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\bin\Debug\SerieParaMalharStart.VoeAirlinesSobrecarga.dll
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.FlowCSharpBasico\bin\Debug\SerieParaMalharStart.VoeAirlinesSobrecarga.pdb

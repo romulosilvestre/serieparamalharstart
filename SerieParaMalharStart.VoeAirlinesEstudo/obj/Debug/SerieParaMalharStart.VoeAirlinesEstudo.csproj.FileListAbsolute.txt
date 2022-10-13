@@ -1,0 +1,6 @@
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlinesEstudo\bin\Debug\SerieParaMalharStart.VoeAirlinesEstudo.dll
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlinesEstudo\bin\Debug\SerieParaMalharStart.VoeAirlinesEstudo.pdb
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlinesEstudo\obj\Debug\SerieParaMalharStart.VoeAirlinesEstudo.csproj.AssemblyReference.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlinesEstudo\obj\Debug\SerieParaMalharStart.VoeAirlinesEstudo.csproj.CoreCompileInputs.cache
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlinesEstudo\obj\Debug\SerieParaMalharStart.VoeAirlinesEstudo.dll
+C:\Users\romul\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlinesEstudo\obj\Debug\SerieParaMalharStart.VoeAirlinesEstudo.pdb

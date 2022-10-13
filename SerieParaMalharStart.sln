@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.Alongamento", "SerieParaMalharStart.Alongamento\SerieParaMalharStart.Alongamento.csproj", "{089ECB7E-7488-4214-9BE2-AB6FC86C1F3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.FlowCSharpBasico", "SerieParaMalharStart.FlowCSharpBasico\SerieParaMalharStart.FlowCSharpBasico.csproj", "{CD2D1D37-AA9C-41A1-B9CC-821DC02D97EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.Algoritmo28", "SerieParaMalharStart.Algoritmo28\SerieParaMalharStart.Algoritmo28.csproj", "{65E9D09B-9AD2-433B-AF86-FEA580941DAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.FlowCSharpBasico.DotNet", "SerieParaMalharStart.FlowCSharpBasico.DotNet\SerieParaMalharStart.FlowCSharpBasico.DotNet.csproj", "{86F829E0-E960-42B1-B93E-759115B1D118}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.Algoritmo13", "SerieParaMalharStart.Algoritmo13\SerieParaMalharStart.Algoritmo13.csproj", "{3828C73C-0B60-428F-AE6E-406E18F6D2D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.VoeAirlinesEstudo", "SerieParaMalharStart.VoeAirlinesEstudo\SerieParaMalharStart.VoeAirlinesEstudo.csproj", "{CEF43058-AE42-464C-A534-100D3137496C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.VoeAirlines", "SerieParaMalharStart.VoeAirlines\SerieParaMalharStart.VoeAirlines.csproj", "{F57D4D14-51D6-4A2B-B631-016CA06305C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerieParaMalharStart.VoeAirlinesEstudo.WindowsForms", "SerieParaMalharStart.VoeAirlinesEstudo.WindowsForms\SerieParaMalharStart.VoeAirlinesEstudo.WindowsForms.csproj", "{E0A8183C-B2B9-4634-9775-4B5BF3DDF28F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerieParaMalharStart.WPF", "SerieParaMalharStart.WPF\SerieParaMalharStart.WPF.csproj", "{4EBD87C4-4A0A-4D14-A47E-2E0C14103893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.VoeAirlinesSobrecarga", "SerieParaMalharStart.VoeAirlinesSobrecarga\SerieParaMalharStart.VoeAirlinesSobrecarga.csproj", "{0F4CD22C-5CAE-45E5-8BBB-6E34E353D975}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,22 +21,30 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{089ECB7E-7488-4214-9BE2-AB6FC86C1F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{089ECB7E-7488-4214-9BE2-AB6FC86C1F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{089ECB7E-7488-4214-9BE2-AB6FC86C1F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{089ECB7E-7488-4214-9BE2-AB6FC86C1F3C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{65E9D09B-9AD2-433B-AF86-FEA580941DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{65E9D09B-9AD2-433B-AF86-FEA580941DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{65E9D09B-9AD2-433B-AF86-FEA580941DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{65E9D09B-9AD2-433B-AF86-FEA580941DAF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3828C73C-0B60-428F-AE6E-406E18F6D2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3828C73C-0B60-428F-AE6E-406E18F6D2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3828C73C-0B60-428F-AE6E-406E18F6D2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3828C73C-0B60-428F-AE6E-406E18F6D2D4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F57D4D14-51D6-4A2B-B631-016CA06305C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F57D4D14-51D6-4A2B-B631-016CA06305C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F57D4D14-51D6-4A2B-B631-016CA06305C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F57D4D14-51D6-4A2B-B631-016CA06305C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2D1D37-AA9C-41A1-B9CC-821DC02D97EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2D1D37-AA9C-41A1-B9CC-821DC02D97EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2D1D37-AA9C-41A1-B9CC-821DC02D97EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2D1D37-AA9C-41A1-B9CC-821DC02D97EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F829E0-E960-42B1-B93E-759115B1D118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F829E0-E960-42B1-B93E-759115B1D118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F829E0-E960-42B1-B93E-759115B1D118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F829E0-E960-42B1-B93E-759115B1D118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF43058-AE42-464C-A534-100D3137496C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF43058-AE42-464C-A534-100D3137496C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF43058-AE42-464C-A534-100D3137496C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF43058-AE42-464C-A534-100D3137496C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A8183C-B2B9-4634-9775-4B5BF3DDF28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A8183C-B2B9-4634-9775-4B5BF3DDF28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A8183C-B2B9-4634-9775-4B5BF3DDF28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A8183C-B2B9-4634-9775-4B5BF3DDF28F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EBD87C4-4A0A-4D14-A47E-2E0C14103893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBD87C4-4A0A-4D14-A47E-2E0C14103893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBD87C4-4A0A-4D14-A47E-2E0C14103893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBD87C4-4A0A-4D14-A47E-2E0C14103893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4CD22C-5CAE-45E5-8BBB-6E34E353D975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4CD22C-5CAE-45E5-8BBB-6E34E353D975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4CD22C-5CAE-45E5-8BBB-6E34E353D975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4CD22C-5CAE-45E5-8BBB-6E34E353D975}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
